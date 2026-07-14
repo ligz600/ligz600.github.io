@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#[My Google scholar page](https://scholar.google.com/citations?user=e1ntqqcAAAAJ&hl=zh-CN)    
+[My Google scholar page](https://scholar.google.com/citations?user=e1ntqqcAAAAJ&hl)    
 
 Journal Publications
 ======
