@@ -16,7 +16,7 @@ I obtained my Ph.D. in Computational Mathematics from [Jilin University](https:/
 
 Research Interests
 ======
-- Non-standard finite element method for PDEs: Elasticity equation, Biharmonic equation
+- Non-standard finite element method for PDEs
 - Computational inverse problems
 - Industrial software development
 
