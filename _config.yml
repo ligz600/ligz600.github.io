@@ -41,8 +41,8 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-0620-7252"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : # "https://www.researchgate.net/profile/Fuchang-Huo-2?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
