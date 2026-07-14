@@ -13,13 +13,6 @@ I am a postdoctoral fellow in the Department of Applied Mathematics at The Hong 
 I obtained my Ph.D. in Computational Mathematics from Jilin University in June 2025, supervised by Prof. [Tao Tang](https://www.math.hkbu.edu.hk/~ttang/)  and Prof. [Ran Zhang](https://math.jlu.edu.cn/info/1782/16870.htm).
 
 
-#Education
-#======
-#- Sept. 2015 - June. 2019: B.S.  in Mathematics at Changchun University of Science and Technology
-#- Sept. 2019 - June. 2022: M.S.  in Operational Research and Cybernetics at Northeast Normal University
-#- Sept. 2022 - June. 2025: Ph.D. in Computational Mathematics at Jilin University
-
-
 
 Research Interests
 ======
