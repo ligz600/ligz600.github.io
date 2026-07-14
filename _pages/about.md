@@ -13,7 +13,7 @@ I am a postdoctral fellow in the Department of Applied Mathematics at The Hong K
 I obtained my Ph.D. in math from Jilin University in June 2025, supervised by Prof. [Tao Tang](https://www.math.hkbu.edu.hk/~ttang/)  and Prof. [Ran Zhang](https://math.jlu.edu.cn/info/1782/16870.htm).
 
 
-Getting started
+Research Interests
 ======
 
 
