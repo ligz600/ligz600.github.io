@@ -15,5 +15,10 @@ I obtained my Ph.D. in math from Jilin University in June 2025, supervised by Pr
 
 Research Interests
 ======
+- Non-standard finite element method for PDEs: Elasticity equation, Biharmonic equation
+- Computational Inverse Problems
 
 
+Contact
+======
+Address: VA334, Department of Applied Mathematics, The Hong Kong Polytechnic University, Kowloon, Hong Kong.
