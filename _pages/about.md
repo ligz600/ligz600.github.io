@@ -23,4 +23,5 @@ Research interests
 
 Contact
 ======
-Address: VA334, Department of Applied Mathematics, The Hong Kong Polytechnic University, Kowloon, Hong Kong.
+Address: VA334, Shaw Amenities Building, The Hong Kong Polytechnic University, Kowloon, Hong Kong.
+E-mail: fuchang.huo@polyu.edu.hk
