@@ -14,7 +14,7 @@ I obtained my Ph.D. in Computational Mathematics from [Jilin University](https:/
 
 
 
-Research Interests
+Research interests
 ======
 - Non-standard finite element method for PDEs
 - Computational inverse problems
